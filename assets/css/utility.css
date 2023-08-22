@@ -1,0 +1,96 @@
+.left-28{
+	left:28px;
+}
+.f-400{
+	font-weight:400;
+}
+.f-500{
+	font-weight:500;
+}
+.f-600{
+	font-weight:600;
+}
+.f-700{
+	font-weight:700;
+}
+.f-800{
+	font-weight:800;
+}
+.font-12{
+	font-size:12px;
+}
+.font-13{
+	font-size:13px;
+}
+.font-17{
+	font-size:17px;
+}
+.font-15{
+	font-size:15px;
+}
+.font-50{
+	font-size:50px;
+}
+.font-55{
+	font-size:55px;
+}
+.font-20{
+	font-size:20px;
+}
+.font-24{
+	font-size:24px;
+}
+.font-30{
+	font-size:30px;
+}
+.font-70{
+	font-size:70px;
+}
+.font-60{
+	font-size:60px;
+}
+.font-80{
+	font-size:80px;
+}
+.font-65{
+	font-size:65px;
+}
+.font-pt{
+	font-family: 'PT Serif';
+}
+.font-roboto{
+	 font-family: 'Roboto';
+}
+.line-95{
+	line-height:95px;
+}
+.rounded-8{
+	border-radius:8px;
+}
+.rounded-8-top{
+	border-radius:8px 8px 0 0;
+}
+.rounded-8-bottom{
+	border-radius:0 0 8px 8px;
+}
+.padding-section{
+	padding:200px 0;
+}
+.padding-section-100{
+	padding:100px 0;
+}
+.padding-section-100b{
+	padding-bottom:100px;
+}
+.padding-top-300{
+	padding-top:400px;
+}
+.p-30{
+	padding:30px!important;
+}
+.bg-skin{
+	background:#f9f4e8;
+}
+.box-shadow{
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+}
